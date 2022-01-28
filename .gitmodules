@@ -1,0 +1,12 @@
+[submodule "week-1-assignment-gokcelb"]
+	path = week-1-assignment-gokcelb
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-gokcelb
+[submodule "week-2-assignment-gokcelb"]
+	path = week-2-assignment-gokcelb
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-2-assignment-gokcelb
+[submodule "week-3-assignment-gokcelb"]
+	path = week-3-assignment-gokcelb
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-gokcelb
+[submodule "week-4-assignment-gokcelb"]
+	path = week-4-assignment-gokcelb
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-gokcelb
