@@ -10,3 +10,6 @@
 [submodule "week-4-assignment-gokcelb"]
 	path = week-4-assignment-gokcelb
 	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-gokcelb
+[submodule "week-5-assignment-gokcelb"]
+	path = week-5-assignment-gokcelb
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-5-assignment-gokcelb
